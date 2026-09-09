@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./profile-light.svg">
-  <img alt="Muneeb Ullah Khan — AI Engineer and Full Stack Developer" src="./profile-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muneebkhan7890t/muneebkhan7890t/main/profile-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muneebkhan7890t/muneebkhan7890t/main/profile-light.svg">
+  <img alt="Muneeb Ullah Khan — AI Engineer and Full Stack Developer" src="https://raw.githubusercontent.com/muneebkhan7890t/muneebkhan7890t/main/profile-light.svg" width="100%">
 </picture>
 
