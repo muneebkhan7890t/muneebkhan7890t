@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile-light.svg">
+  <img alt="Muneeb Ullah Khan — AI Engineer and Full Stack Developer" src="./profile-light.svg" width="100%">
+</picture>
+
